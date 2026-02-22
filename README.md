@@ -4,6 +4,9 @@
 >
 > Analysis by [CipherScan](https://cipherscan.app) — February 22, 2026
 
+**If you find this research valuable, consider supporting CipherScan:**
+`u1fh3kwyl9hq9q907rx9j8mdy2r7gz4xh0y4yt63dxykk2856gr0238vxsegemyfu8s5a77ycq72tcnzkxa75ykjtcn6wp2w9rtuu3ssdzpe2fyghl8wlk3vh6f67304xe4lrxtvywtudy5t434zc07u6mh27ekufx7ssr55l8875z7f4k76c3tk23s3jzf8rxdlkequlta8lwsv09gxm`
+
 ---
 
 ## Election Overview
@@ -278,3 +281,6 @@ Anyone can verify these findings:
 
 *Analysis performed using CipherScan on-chain data and the zcash-vote decryption library.*
 *February 22, 2026*
+
+**If you found this analysis useful, consider supporting CipherScan's independent research:**
+`u1fh3kwyl9hq9q907rx9j8mdy2r7gz4xh0y4yt63dxykk2856gr0238vxsegemyfu8s5a77ycq72tcnzkxa75ykjtcn6wp2w9rtuu3ssdzpe2fyghl8wlk3vh6f67304xe4lrxtvywtudy5t434zc07u6mh27ekufx7ssr55l8875z7f4k76c3tk23s3jzf8rxdlkequlta8lwsv09gxm`
