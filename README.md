@@ -196,7 +196,7 @@ The three Binance addresses (`t1dHhe...`, `t1XKfb...`, `t1KtX3...`) together wit
 |---|---|---|---|---|---|
 | t1Ud5bCy2sirabJgBEeV94j2jX3UyYkegCP | **Jan 26** | 5,000 ZEC | 5,000 (Oppose) | 0.00 | 3 |
 | t1SXTi2aWCy7LenjPMFpKHZ6SwVe8HqaSin | **Jan 22** | 2,500 ZEC | 2,500 (Oppose) | 0.00 | 5 |
-| t1h7yPTNhzV47Jk9BEba3wnxsDzPK6Zmjr7 | **Jan 24** | 1,500 ZEC | 1,500 (Oppose) | 1,500 | 2 |
+| t1h7yPTNhzV47Jk9BEba3wnxsDzPK6Zmjr7 | **Jan 24** | 1,500 ZEC | 1,500 (Oppose) | 0.00 | 2 |
 | t1XkVNE8TpmJCmmZ4BDAQsvgYMAJsSBmMLg | **Jan 13** | 1,001 ZEC | 1,000 (Oppose) | 0.00 | 3 |
 | t1PrVWB8WCpAeUPGp6NdK7seCPyDy6ZT1ub | **Jan 7** | 1,000 ZEC | 1,000 (Oppose) | 0.00 | 2 |
 | t1TpsSMHxbGkzbYQw5dmLUeLAgKocKy7rdv | **Jan 21** | 800 ZEC | 800 (Oppose) | 0.00 | 3 |
